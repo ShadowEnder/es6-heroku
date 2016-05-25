@@ -1,4 +1,4 @@
-var express = require('exoress');
+var express = require('express');
 var app = express();
 var greeter = require('./greeter.js');
 
